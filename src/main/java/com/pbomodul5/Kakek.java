@@ -12,7 +12,7 @@ public class Kakek {
         address = "Sleman Dajogjakarta";
 
     }
-    public kakek(String name, String address){
+    public kakek(String namekakek, String address){
         this.namekakek = namekakek;
         this.address = address;
     }
