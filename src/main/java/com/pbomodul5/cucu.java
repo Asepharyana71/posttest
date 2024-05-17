@@ -2,7 +2,7 @@ package com.pbomodul5;
 
 public class cucu extends Bapak {
     public cucu() {
-        System.out.println("Nama Kakek : " + namakakek);
+        System.out.println("Nama Kakek : " + namekakek);
         System.out.println("Alamat Kakek : " + address);
     }
     public static void main(String[] args) {

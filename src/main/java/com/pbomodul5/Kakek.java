@@ -1,23 +1,23 @@
 package com.pbomodul5;
 
 public class Kakek {
-    protected String namakakek;
+    protected String namekakek;
     protected String address;
-    public Kakek(String namakakek, String address){
+    public Kakek(String namekakek, String address){
         System.out.println("\n Program Demo Inheritance");
         System.out.println("====================================");
         System.out.println("Masukan konstruktor kakek");
         System.out.println("Dijalankan oleh class bapak");
-        namakakek = "Joyo Cokro Aminoto";
+        namekakek = "Joyo Cokro Aminoto";
         address = "Sleman Dajogjakarta";
 
     }
-    public kakek(String namakakek, String address){
-        this.namakakek = namakakek;
+    public kakek(String name, String address){
+        this.namekakek = namekakek;
         this.address = address;
     }
     public String getName(){
-        return namakakek;
+        return namekakek;
     }
     public String getAddress(){
         return address;

@@ -5,7 +5,7 @@ public class Bapak extends Kakek {
     protected String addressbapak;
 
     public bapak(){
-    System.out.println("Nama Kakek : "+namakakek);
+    System.out.println("Nama Kakek : "+namekakek);
     System.out.println("Alamat Kakek : "+address);
     System.out.println("\n");
     System.out.println("Masukan konstruktor bapak");
