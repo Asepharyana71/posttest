@@ -1,6 +1,6 @@
 package com.pbomodul5;
 
-public class cucu extends Bapak {
+public class cucu extends bapak {
     public cucu() {
         System.out.println("Nama Kakek : " + namekakek);
         System.out.println("Alamat Kakek : " + address);

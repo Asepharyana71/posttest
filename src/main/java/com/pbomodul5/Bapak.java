@@ -1,6 +1,6 @@
 package com.pbomodul5;
 
-public class Bapak extends Kakek {
+public class bapak extends kakek {
     protected String namebapak;
     protected String addressbapak;
 

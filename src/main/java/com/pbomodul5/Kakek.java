@@ -1,9 +1,9 @@
 package com.pbomodul5;
 
-public class Kakek {
+public class kakek {
     protected String namekakek;
     protected String address;
-    public Kakek(String namekakek, String address){
+    public kakek(String namekakek, String address){
         System.out.println("\n Program Demo Inheritance");
         System.out.println("====================================");
         System.out.println("Masukan konstruktor kakek");
