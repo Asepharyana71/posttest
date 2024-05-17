@@ -14,7 +14,7 @@ public class Dosen extends Person{
     }
     public void infoDosen(){
         System.out.println("\nInfoDosen");
-        System.out.println("IdDosen :\t\t "+getIdDosen());
+        System.out.println("IdDosen\t\t : "+getIdDosen());
         System.out.println("Nama\t\t : "+getNama());
         System.out.println("Alamat\t\t : "+getAlamat());
         System.out.println("Umur :\t\t "+getUmur());
