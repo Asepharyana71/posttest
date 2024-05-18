@@ -3,8 +3,8 @@ package com.pbomodul5;
 public class Mahasiswa extends Person {
     private String NIM;
 
-    public Mahasiswa() {
-    }
+    // public Mahasiswa() {
+    // }
 
     public Mahasiswa(String Nama, String Alamat, int Umur, String NIM) {
         super(Nama, Alamat, Umur);
